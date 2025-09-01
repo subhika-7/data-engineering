@@ -5,7 +5,7 @@ It contains structured learning, hands-on projects, and curated resources to dem
 
 
 
-📌 Profile  
+##📌 Profile  
 - **Discipline**: Electronics and Communication Engineering (B.E.)  
 - **Focus**: Data Engineering and Cloud Technologies  
 - **Interests**: Data Modeling, ETL Development, Cloud Data Solutions, Big Data Processing  
@@ -13,7 +13,7 @@ It contains structured learning, hands-on projects, and curated resources to dem
 
 
 
-🛠 Technical Skills  
+##🛠 Technical Skills  
 - **Programming**: Python, SQL  
 - **Databases**: PostgreSQL, MySQL  
 - **Data Engineering Tools**: Apache Airflow, Pandas, NumPy  
