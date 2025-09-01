@@ -5,7 +5,7 @@ It contains structured learning, hands-on projects, and curated resources to dem
 
 
 
-##📌 Profile  
+#📌 Profile  
 - **Discipline**: Electronics and Communication Engineering (B.E.)  
 - **Focus**: Data Engineering and Cloud Technologies  
 - **Interests**: Data Modeling, ETL Development, Cloud Data Solutions, Big Data Processing  
