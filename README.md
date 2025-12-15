@@ -18,17 +18,6 @@ It contains structured learning, hands-on projects, and curated resources to dem
 - **Big Data Tools**: Kafka, Spark (learning)  
 - **Other**: Git, Linux, Docker (beginner)  
 
-📂 Repository Structure  
-
-data-engineering-career/
-│── notes/ # Conceptual notes and summaries
-│── projects/ # Data engineering projects
-│ ├── project1/ # PostgreSQL data modeling
-│ ├── project2/ # ETL with Python & Airflow
-│ ├── project3/ # Streaming with Kafka
-│── resources/ # Curated resources and references
-│── exercises/ # Practice problems in SQL & Python
-│── README.md # Repository overview
 
 
 🚀 Projects  
